@@ -75,6 +75,7 @@ document.addEventListener('DOMContentLoaded', () => {
     squares.forEach(square => square.addEventListener('click', checkBoard))
 
 })
+//why isn't this working? I will try again tomorrow.
 
 
 
